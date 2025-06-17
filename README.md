@@ -49,6 +49,7 @@ Each question entry contains the following fields:
   "Complexity": "basic|intermediate|advanced",
   "Question": "multiple_choice_question_text",
   "Answer": "a|b|c|d|e",
+  "Text Answer": "textual answer",
   "Reference": "citation_information",
   "Page": "integer_page_reference",
   "Context": "supporting_text_from_source",
